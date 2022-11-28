@@ -61,4 +61,4 @@
 81.7675 / Nov 28, 2022 12:30:00
 81.7550 / Nov 28, 2022 12:31:00
 ==========================================
-NSE closing reference rate: 81.7545
+81.7545 : NSE closing reference rate 
